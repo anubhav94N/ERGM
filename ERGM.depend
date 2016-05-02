@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1461099468 source:/home/aman/Desktop/ERGM/ergm.cpp
+	"ergm.h"
+
+1460760082 
+
+1461099162 /home/aman/Desktop/ERGM/ergm.h
+	"features.h"
+
+1461193461 h"
+
+1461099752 /home/aman/Desktop/ERGM/features.h
+	"graph.h"
+
+1461174192 /home/aman/Desktop/ERGM/graph.h
+	<bits/stdc++.h>
+
+1461193488 ++.h>
+
+1461099322 source:/home/aman/Desktop/ERGM/graph.cpp
+	"graph.h"
+	"mcqd/mcqd.h"
+
+1461188348 .h"
+
+1460760082 /home/aman/Desktop/ERGM/mcqd/mcqd.h
+	<iostream>
+	<algorithm>
+	<assert.h>
+
+1461001260 source:/home/aman/Desktop/ERGM/graphSet.cpp
+	"ergm.h"
+
+1461001312 /home/aman/Desktop/ERGM/graphSet.h
+	"features.h"
+
+1461018005 source:/home/aman/Desktop/ERGM/features.cpp
+	"features.h"
+
+1461175950 source:c:\users\anubh\desktop\btp\ergm\features.cpp
+	"features.h"
+
+1461193514 c:\users\anubh\desktop\btp\ergm\features.h
+	"graph.h"
+
+1461193488 c:\users\anubh\desktop\btp\ergm\graph.h
+	<bits/stdc++.h>
+
+1461190766 source:c:\users\anubh\desktop\btp\ergm\ergm.cpp
+	"ergm.h"
+
+1461193461 c:\users\anubh\desktop\btp\ergm\ergm.h
+	"features.h"
+
+1461193794 source:c:\users\anubh\desktop\btp\ergm\augmentation_test.cpp
+	"augmentation_test.h"
+
+1461193914 ion_test.h"
+
+1461188348 source:c:\users\anubh\desktop\btp\ergm\graph.cpp
+	"graph.h"
+	"mcqd/mcqd.h"
+
+1460760082 c:\users\anubh\desktop\btp\ergm\mcqd\mcqd.h
+	<iostream>
+	<algorithm>
+	<assert.h>
+
+1461193941 source:c:\users\anubh\desktop\btp\ergm\test.cpp
+	"test.h"
+
+1461193914 source:c:\users\anubh\desktop\btp\ergm\mainfile.cpp
+	"test.h"
+	"augmentation_test.h"
+
+1461193689 c:\users\anubh\desktop\btp\ergm\test.cpp
+	"test.h"
+
+1461193560 c:\users\anubh\desktop\btp\ergm\augmentation_test.cpp
+	"ergm.h"
+
+1461193772 c:\users\anubh\desktop\btp\ergm\test.h
+	"ergm.h"
+
+1461193888 c:\users\anubh\desktop\btp\ergm\augmentation_test.h
+	"ergm.h"
+
+1461295777 source:/home/aman/Desktop/ERGM/augmentation_test.cpp
+	"augmentation_test.h"
+
+1461193888 /home/aman/Desktop/ERGM/augmentation_test.h
+	"ergm.h"
+
+1461294946 /home/aman/Desktop/ERGM/ergm.h
+	"features.h"
+
+1461193514 /home/aman/Desktop/ERGM/features.h
+	"graph.h"
+
+1461193488 /home/aman/Desktop/ERGM/graph.h
+	<bits/stdc++.h>
+
+1462132615 source:/home/aman/Desktop/ERGM/ergm.cpp
+	"ergm.h"
+
+1461175950 source:/home/aman/Desktop/ERGM/features.cpp
+	"features.h"
+
+1461188348 source:/home/aman/Desktop/ERGM/graph.cpp
+	"graph.h"
+	"mcqd/mcqd.h"
+
+1460760082 /home/aman/Desktop/ERGM/mcqd/mcqd.h
+	<iostream>
+	<algorithm>
+	<assert.h>
+
+1462138858 source:/home/aman/Desktop/ERGM/test.cpp
+	"test.h"
+
+1461193772 /home/aman/Desktop/ERGM/test.h
+	"ergm.h"
+
+1462138964 source:/home/aman/Desktop/ERGM/mainFile.cpp
+	"test.h"
+	"augmentation_test.h"
+	"ModelPredict.h"
+
+1461297292 source:/home/aman/Desktop/ERGM/ModelPredict.cpp
+	"ModelPredict.h"
+
+1461282587 /home/aman/Desktop/ERGM/ModelPredict.h
+	"ThetaDistribution.h"
+
+1461282590 /home/aman/Desktop/ERGM/ThetaDistribution.h
+	"ergm.h"
+
+1461280609 source:/home/aman/Desktop/ERGM/ThetaDistribution.cpp
+	"ThetaDistribution.h"
+
